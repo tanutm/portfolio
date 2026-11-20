@@ -1,5 +1,7 @@
 # Tripti Mandal: portfolio
 
+**Live site:** https://portfolio-tawny-mu-ppzis8tuo1.vercel.app
+
 A one-bit, classic-Mac-style portfolio with a dithered WebGL background (Next.js, React, Three.js).
 
 ```bash
